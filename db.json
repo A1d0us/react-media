@@ -17,6 +17,87 @@
       "name": "Julian Wuckert"
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": "1262",
+      "title": "Hiking trip",
+      "userId": "ae6a"
+    },
+    {
+      "id": "9cfb",
+      "userId": "ae6a",
+      "title": "Recycled Fresh Shoes"
+    },
+    {
+      "id": "1783",
+      "userId": "ae6a",
+      "title": "Electronic Steel Ball"
+    },
+    {
+      "id": "b14b",
+      "userId": "ae6a",
+      "title": "Recycled Rubber Tuna"
+    },
+    {
+      "id": "8eba",
+      "userId": "48bd",
+      "title": "Handmade Wooden Cheese"
+    },
+    {
+      "id": "ba73",
+      "userId": "bfaa",
+      "title": "Intelligent Steel Gloves"
+    },
+    {
+      "id": "2c6e",
+      "userId": "bfaa",
+      "title": "Small Bronze Bike"
+    },
+    {
+      "id": "4f04",
+      "userId": "bfaa",
+      "title": "Intelligent Rubber Soap"
+    },
+    {
+      "id": "3511",
+      "userId": "48bd",
+      "title": "Handmade Fresh Fish"
+    },
+    {
+      "id": "5543",
+      "userId": "bfaa",
+      "title": "Awesome Cotton Sausages"
+    },
+    {
+      "id": "1efb",
+      "userId": "e314",
+      "title": "Incredible Soft Table"
+    },
+    {
+      "id": "8ae5",
+      "userId": "e314",
+      "title": "Practical Rubber Gloves"
+    },
+    {
+      "id": "9d2e",
+      "userId": "e314",
+      "title": "Electronic Granite Chicken"
+    },
+    {
+      "id": "85d5",
+      "userId": "e314",
+      "title": "Small Granite Computer"
+    },
+    {
+      "id": "45b5",
+      "userId": "e314",
+      "title": "Intelligent Frozen Car"
+    },
+    {
+      "id": "c734",
+      "userId": "48bd",
+      "title": "Bespoke Rubber Shirt"
+    }
+  ],
   "photos": []
 }

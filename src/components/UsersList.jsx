@@ -4,7 +4,7 @@ import {addUser, fetchUsers} from "../store/index.js";
 import Skeleton from "./Skeleton.jsx";
 import Button from "./Button.jsx";
 import useThunk from "../hooks/use-thunk.js";
-import UserListItem from "./UserListItem.jsx";
+import UsersListItem from "./UsersListItem.jsx";
 
 function UsersList() {
   const [doFetchUsers, isLoadingUsers, loadingUsersError] = useThunk(fetchUsers);
@@ -26,7 +26,7 @@ function UsersList() {
     content = <div>Error fetching data...</div>;
   } else {
     content = data.map((user) => {
-      return <UserListItem key={user.id} user={user}/>
+      return <UsersListItem key={user.id} user={user}/>
     });
   }
 

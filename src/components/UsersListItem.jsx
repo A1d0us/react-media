@@ -5,7 +5,7 @@ import ExpandablePanel from "./ExpandablePanel.jsx";
 import {GoTrashcan} from "react-icons/all.js";
 import AlbumsList from "./AlbumsList.jsx";
 
-function UserListItem({user}) {
+function UsersListItem({user}) {
   const [doRemoveUser, isRemovingUser, removingUserError] = useThunk(removeUser);
 
   const handleClick = () => {
@@ -27,4 +27,4 @@ function UserListItem({user}) {
   );
 }
 
-export default UserListItem;
+export default UsersListItem;
