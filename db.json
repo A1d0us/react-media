@@ -19,29 +19,9 @@
   ],
   "albums": [
     {
-      "id": "1262",
-      "title": "Hiking trip",
-      "userId": "ae6a"
-    },
-    {
-      "id": "9cfb",
-      "userId": "ae6a",
-      "title": "Recycled Fresh Shoes"
-    },
-    {
       "id": "1783",
       "userId": "ae6a",
       "title": "Electronic Steel Ball"
-    },
-    {
-      "id": "b14b",
-      "userId": "ae6a",
-      "title": "Recycled Rubber Tuna"
-    },
-    {
-      "id": "8eba",
-      "userId": "48bd",
-      "title": "Handmade Wooden Cheese"
     },
     {
       "id": "ba73",
@@ -97,6 +77,11 @@
       "id": "c734",
       "userId": "48bd",
       "title": "Bespoke Rubber Shirt"
+    },
+    {
+      "id": "2003",
+      "userId": "ae6a",
+      "title": "Unbranded Metal Bike"
     }
   ],
   "photos": []
